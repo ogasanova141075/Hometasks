@@ -1,0 +1,27 @@
+{"hausehold goods": [
+ {
+  "Name": "Refrigerator",
+  "Trademark": "INDESIT",
+  "Price": "12799"
+ },
+ {
+  "Name": "Microwave",
+  "Trademark": "PANASONIC",
+  "Price": "2599"
+ },
+ {
+  "Name": "Washing machine",
+  "Trademark": "SAMSUNG",
+  "Price": "10999"
+ },
+ {
+  "Name": "Dishwasher",
+  "Trademark": "BEKO",
+  "Price": "8439"
+ },
+ {
+  "Name": "Electric Oven",
+  "Trademark": "ELECTROLUX",
+  "Price": "7699"
+ }
+]}
