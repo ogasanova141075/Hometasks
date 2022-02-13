@@ -1,0 +1,29 @@
+ <Hausehold_goods>
+  <unit>
+    <Name>Refrigerator</Name>
+    <Trademark>INDESIT</Trademark>
+    <Price>12799</Price>
+   </unit>
+  <unit>
+    <Name>Microwave</Name>
+    <Trademark>PANASONIC</Trademark>
+    <Price>2599</Price>
+   </unit>
+  <unit>
+    <Name>Washing machine</Name>
+    <Trademark>SAMSUNG</Trademark>
+    <Price>10999</Price>
+   </unit>
+  <unit>
+    <Name>Dishwasher</Name>
+    <Trademark>BEKO</Trademark>
+    <Price>8439</Price>
+   </unit>
+  <unit>
+    <Name>"Electric Oven</Name>
+    <Trademark>ELECTROLUX</Trademark>
+    <Price>7699</Price>	
+	</unit>
+  </Hausehold_goods>
+    
+   
